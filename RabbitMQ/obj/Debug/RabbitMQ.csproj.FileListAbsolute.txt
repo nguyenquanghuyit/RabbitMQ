@@ -1,0 +1,15 @@
+D:\game\NET4_0\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe.config
+D:\game\NET4_0\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.exe
+D:\game\NET4_0\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.pdb
+D:\game\NET4_0\RabbitMQ\RabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\game\NET4_0\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.dll
+D:\game\NET4_0\RabbitMQ\RabbitMQ\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\game\NET4_0\RabbitMQ\RabbitMQ\bin\Debug\RabbitMQ.Client.xml
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.AssemblyReference.cache
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.frmRabbitMQ.resources
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.Properties.Resources.resources
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.GenerateResource.cache
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.CoreCompileInputs.cache
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.csproj.Up2Date
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.exe
+D:\game\NET4_0\RabbitMQ\RabbitMQ\obj\Debug\RabbitMQ.pdb
